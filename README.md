@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/mwangi-njuguna/Apollo-Janus.svg?branch=develop)](https://travis-ci.com/mwangi-njuguna/Apollo-Janus)
 
 ## Available Scripts
 
