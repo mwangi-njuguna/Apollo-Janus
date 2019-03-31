@@ -1,0 +1,10 @@
+language: node_js
+node:
+  - 10.15.1
+git:
+  depth: 5
+
+branches:
+  only:
+    - develop
+    - master
